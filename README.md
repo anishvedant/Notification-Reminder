@@ -1,12 +1,12 @@
 # Notification Remainder 
 
-This Python script uses the `plyer` library to send a desktop notification reminding you to read a book before bedtime. By creating a bedtime routine that includes reading, you can signal to your body that it is time to sleep, helping you wind down and prepare for a good night's rest.
+This Python script uses the `plyer` library to send desktop notifications with customizable titles, messages, and icons. It's a versatile tool that can be adapted for various use cases such as reminders, alerts, or informational messages.
 
 ## Features
 
 - Sends a desktop notification with a custom title and message.
 - Uses the `plyer` library for cross-platform notifications.
-- Includes an icon for the notification.
+- Allows for the inclusion of an icon in the notification.
 - Customizable timeout for how long the notification is displayed.
 
 ## Installation
