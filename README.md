@@ -16,3 +16,16 @@ To use this script, you need to have Python installed on your system. Additional
 ```bash
 pip install plyer
 ```
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests with your improvements and bug fixes.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Disclaimer
+
+This game is for educational purposes and personal enjoyment. Ensure you have the appropriate rights to use the graphic and sound assets included in the game.
+
+---
