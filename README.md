@@ -1,6 +1,6 @@
 # Notification Remainder 
 
-This Python script uses the `plyer` library to send desktop notifications with customizable titles, messages, and icons. It's a versatile tool that can be adapted for various use cases such as reminders, alerts, or informational messages.
+This project uses the `plyer` library to send desktop notifications with customizable titles, messages, and icons. It's a versatile tool that can be adapted for various use cases such as reminders, alerts, or informational messages.
 
 ## Features
 
