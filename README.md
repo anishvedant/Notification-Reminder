@@ -46,5 +46,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Disclaimer
 
 This game is for educational purposes and personal enjoyment. Ensure you have the appropriate rights to use the graphic and sound assets included in the game.
-
----
